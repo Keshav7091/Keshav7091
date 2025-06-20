@@ -14,7 +14,6 @@
 ### 👨‍💻 About Me
 
 - 🌱 Currently learning **Spring Boot**
-- 🧪 Exploring **Playwright for automation testing**
 - 👯 Looking to collaborate on **Full Stack Projects**
 - 🎓 B.Tech (2024), Information Technology – AKTU, Lucknow
 - 💻 Skilled in **React.js**, **Node.js**, and **Java**
@@ -102,6 +101,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav7091&layout=compact&langs_count=6" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav7091&theme=radical" />
-</p>
