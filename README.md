@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **Spring Boot**
+- 🌱 Currently learning **UI Path (RPA Dvelopment)**
 - 👯 Looking to collaborate on **Full Stack Projects**
 - 🎓 B.Tech (2024), Information Technology – AKTU, Lucknow
 - 💻 Skilled in **React.js**, **Node.js**, and **Java**
