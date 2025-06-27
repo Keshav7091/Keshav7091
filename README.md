@@ -1,8 +1,9 @@
 <!-- Banner (optional) -->
 <h1 align="center">Hi 👋, I'm Keshav Kumar</h1>
+
 <!-- Animated Typing Banner (Centered) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Keshav+Kumar;Full+Stack+Developer+%7C+MERN+Stack+%7C+Java;React+%7C+Node+%7C+Spring+Boot" alt="Typing Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Keshav+Kumar;Full+Stack+Developer+%7C+MERN+Stack+%7C+Java;React+%7C+Node+%7C+UI+Path+(RPA)" alt="Typing Banner">
 </div>
 
 <p align="left">
@@ -13,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **UI Path (RPA Dvelopment)**
+- 🌱 Currently learning **UI Path (RPA Development)**
 - 👯 Looking to collaborate on **Full Stack Projects**
 - 🎓 B.Tech (2024), Information Technology – AKTU, Lucknow
 - 💻 Skilled in **React.js**, **Node.js**, and **Java**
@@ -47,7 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
@@ -56,20 +56,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://img.shields.io/badge/UIPath-RPA-blue?style=for-the-badge&logo=uipath&logoColor=white" height="40" />
+
 </p>
+
 
 ---
 
 ### 📚 Currently Learning
 
-- 🔍 Spring Boot & RESTful APIs  
+- 🤖 UI Path (RPA Development)  
 - 📦 Advanced Git & CI/CD (GitHub Actions)
 
 ---
 
 ### 🎯 Career Goals
 
-- 🚀 Land a Full Stack Developer role in a fast-growing product company  
+- 🚀 Land a Full Stack Developer or RPA Developer role in a fast-growing product company  
 - 💬 Improve system design & architecture skills  
 - 🧑‍🏫 Mentor junior devs & contribute to open-source
 
@@ -100,4 +103,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Keshav7091&show_icons=true&locale=en" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav7091&layout=compact&langs_count=6" height="150" />
 </p>
-
