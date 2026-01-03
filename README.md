@@ -65,14 +65,14 @@
 
 ### 📚 Currently Learning
 
-- 🤖 UI Path (RPA Development)  
+- 🤖 Java Full Stack Development  
 - 📦 Advanced Git & CI/CD (GitHub Actions)
 
 ---
 
 ### 🎯 Career Goals
 
-- 🚀 Land a Full Stack Developer or RPA Developer role in a fast-growing product company  
+- 🚀 Land a Full Stack Developer role in a fast-growing product company  
 - 💬 Improve system design & architecture skills  
 - 🧑‍🏫 Mentor junior devs & contribute to open-source
 
