@@ -14,10 +14,10 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **UI Path (RPA Development)**
+- 🌱 Currently learning **Java Full Stack Development**
 - 👯 Looking to collaborate on **Full Stack Projects**
 - 🎓 B.Tech (2024), Information Technology – AKTU, Lucknow
-- 💻 Skilled in **React.js**, **Node.js**, and **Java**
+- 💻 Skilled in **Java**, and **React.js**
 - 📫 Reach me at: **keshavk1002003@gmail.com**
 
 ---
