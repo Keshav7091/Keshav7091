@@ -1,105 +1,132 @@
-<!-- Banner (optional) -->
 <h1 align="center">Hi 👋, I'm Keshav Kumar</h1>
 
-<!-- Animated Typing Banner (Centered) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Keshav+Kumar;Full+Stack+Developer+%7C+MERN+Stack+%7C+Java;React+%7C+Node+%7C+UI+Path+(RPA)" alt="Typing Banner">
-</div>
+<h3 align="center">Java Full Stack Developer | Spring Boot | React | SQL</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=keshav7091&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="center">
+Passionate about building scalable web applications with Java, Spring Boot and React.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Keshav7091&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **Java Full Stack Development**
-- 👯 Looking to collaborate on **Full Stack Projects**
-- 🎓 B.Tech (2024), Information Technology – AKTU, Lucknow
-- 💻 Skilled in **Java**, and **React.js**
-- 📫 Reach me at: **keshavk1002003@gmail.com**
+- 💼 Software Engineer
+- 🌱 Currently learning **Spring Boot, Spring Security, Microservices**
+- 💻 Interested in **Backend Development & Full Stack Development**
+- 📚 Practicing **Data Structures, SQL & System Design**
+- 🎯 Goal: Become a Java Full Stack Developer at a Product-Based Company
 
 ---
 
-### 🌐 Connect with me:
+## 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/keshavkumar09/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:keshavk1002003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Keshav7091">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,mysql" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠 Tools & IDEs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Featured Projects
+
+### 🎓 Student Management System *(In Progress)*
+
+**Java • Spring Boot • React • MySQL**
+
+- Authentication
+- Student CRUD
+- REST APIs
+- Dashboard
+
+---
+
+### 🛒 QuickPick
+
+**Tech Stack:** React.js • Tailwind CSS
+
+A responsive e-commerce frontend with product listing, cart, and modern UI.
+
+🚀 **Future Enhancements**
+- Develop a scalable backend using **Spring Boot**
+- Build REST APIs for products, users, and orders
+- Integrate MySQL database
+- Add JWT Authentication & Authorization
+- Implement payment gateway integration
+
+🔗 **Live Demo:** https://quickpick-lemon.vercel.app/
+
+🔗 **GitHub Repository:** https://github.com/Keshav7091/Quick-Pick-full-stack-App
+### 🎯 RankQuest
+
+**React • Tailwind CSS**
+
+JEE College Prediction Tool
+
+https://github.com/Keshav7091/RankQuest
+
+
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://img.shields.io/badge/UIPath-RPA-blue?style=for-the-badge&logo=uipath&logoColor=white" height="40" />
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Keshav7091&theme=github-dark&hide_border=true" />
 </p>
 
-
 ---
 
-### 📚 Currently Learning
-
-- 🤖 Java Full Stack Development  
-- 📦 Advanced Git & CI/CD (GitHub Actions)
-
----
-
-### 🎯 Career Goals
-
-- 🚀 Land a Full Stack Developer role in a fast-growing product company  
-- 💬 Improve system design & architecture skills  
-- 🧑‍🏫 Mentor junior devs & contribute to open-source
-
----
-
-### 🌟 Featured Projects
-
-#### 🎯 RankQuest – JEE College Suggestion Tool  
-> **Tech Used:** React.js + Tailwind CSS  
-> 📌 Description: Enter your JEE Mains rank and get a list of suggested engineering colleges.  
-> 🔗 Links:  
-> [![GitHub Code](https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Keshav7091/RankQuest)
-
----
-
-#### 🛒 Quick Pick – E-Commerce Frontend UI  
-> **Tech Used:** React.js + Tailwind CSS  
-> 📌 Description: A modern UI for an e-commerce app with cart, navbar, and product grid.
-
-[![GitHub Code](https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Keshav7091/Quick-Pick-full-stack-App)  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-0f172a?style=for-the-badge&logo=vercel)](https://quickpick-lemon.vercel.app/)
-
----
-
-### 📊 GitHub Stats
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keshav7091&show_icons=true&locale=en" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav7091&layout=compact&langs_count=6" height="150" />
+
+<a href="https://www.linkedin.com/in/keshavkumar09/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:keshavk1002003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://leetcode.com/u/Keshav098/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
 </p>
