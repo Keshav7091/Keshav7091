@@ -105,13 +105,6 @@ https://github.com/Keshav7091/RankQuest
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Keshav7091&theme=github-dark&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
